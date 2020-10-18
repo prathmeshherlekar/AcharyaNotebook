@@ -1,0 +1,4 @@
+<?php 
+SESSION_START();
+$_SESSION['usn']='1AY18MCA20';
+?>
